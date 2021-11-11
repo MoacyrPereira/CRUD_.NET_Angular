@@ -1,0 +1,28 @@
+C:\Users\moacy\Desktop\Crud\CrudAPI\bin\Debug\netcoreapp2.1\CrudAPI.deps.json
+C:\Users\moacy\Desktop\Crud\CrudAPI\bin\Debug\netcoreapp2.1\CrudAPI.runtimeconfig.json
+C:\Users\moacy\Desktop\Crud\CrudAPI\bin\Debug\netcoreapp2.1\CrudAPI.runtimeconfig.dev.json
+C:\Users\moacy\Desktop\Crud\CrudAPI\bin\Debug\netcoreapp2.1\CrudAPI.dll
+C:\Users\moacy\Desktop\Crud\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.csprojAssemblyReference.cache
+C:\Users\moacy\Desktop\Crud\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.csproj.CoreCompileInputs.cache
+C:\Users\moacy\Desktop\Crud\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.RazorAssemblyInfo.cache
+C:\Users\moacy\Desktop\Crud\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.RazorAssemblyInfo.cs
+C:\Users\moacy\Desktop\Crud\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.AssemblyInfoInputs.cache
+C:\Users\moacy\Desktop\Crud\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.AssemblyInfo.cs
+C:\Users\moacy\Desktop\Crud\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.RazorTargetAssemblyInfo.cache
+C:\Users\moacy\Desktop\Crud\CrudAPI\bin\Debug\netcoreapp2.1\CrudAPI.pdb
+C:\Users\moacy\Desktop\Crud\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.dll
+C:\Users\moacy\Desktop\Crud\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.pdb
+C:\Users\moacy\Desktop\Angular .NET\CrudAPI\bin\Debug\netcoreapp2.1\CrudAPI.deps.json
+C:\Users\moacy\Desktop\Angular .NET\CrudAPI\bin\Debug\netcoreapp2.1\CrudAPI.runtimeconfig.json
+C:\Users\moacy\Desktop\Angular .NET\CrudAPI\bin\Debug\netcoreapp2.1\CrudAPI.runtimeconfig.dev.json
+C:\Users\moacy\Desktop\Angular .NET\CrudAPI\bin\Debug\netcoreapp2.1\CrudAPI.dll
+C:\Users\moacy\Desktop\Angular .NET\CrudAPI\bin\Debug\netcoreapp2.1\CrudAPI.pdb
+C:\Users\moacy\Desktop\Angular .NET\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.csprojAssemblyReference.cache
+C:\Users\moacy\Desktop\Angular .NET\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.csproj.CoreCompileInputs.cache
+C:\Users\moacy\Desktop\Angular .NET\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.RazorAssemblyInfo.cache
+C:\Users\moacy\Desktop\Angular .NET\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.RazorAssemblyInfo.cs
+C:\Users\moacy\Desktop\Angular .NET\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.AssemblyInfoInputs.cache
+C:\Users\moacy\Desktop\Angular .NET\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.AssemblyInfo.cs
+C:\Users\moacy\Desktop\Angular .NET\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.RazorTargetAssemblyInfo.cache
+C:\Users\moacy\Desktop\Angular .NET\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.dll
+C:\Users\moacy\Desktop\Angular .NET\CrudAPI\obj\Debug\netcoreapp2.1\CrudAPI.pdb

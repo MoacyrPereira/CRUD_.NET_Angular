@@ -1,0 +1,19 @@
+@import '../../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.w50 {
+    width: 45%;
+}
+
+
+.inputs {
+    width: 400px;
+}
+
+.invalid {
+    border-color: red;
+}
